@@ -1,4 +1,4 @@
-import logo from "../../assets/logoEpFlow.png";
+import logo from '../../assets/em1.png';
 
 export function WelcomeScreen() {
   return(
